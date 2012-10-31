@@ -7,6 +7,7 @@
         <Description xml:space="preserve">Make .styl files load with the CSS language service.</Description>
         <Locale>1033</Locale>
         <MoreInfoUrl>http://github.com/davetayls/visual-studio-stylus</MoreInfoUrl>
+        <License>MIT-LICENSE.txt</License>
         <SupportedProducts>
             <VisualStudio Version="10.0">
                 <Edition>Pro</Edition>
