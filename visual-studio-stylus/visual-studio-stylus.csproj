@@ -46,6 +46,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="MIT-LICENSE.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="visual-studio-stylus.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
